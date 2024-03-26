@@ -17,10 +17,12 @@
   "dependencies": {
     "@google-cloud/functions-framework": "^3.0.0",
     "@google-cloud/pubsub": "^2.16.0",
+    "bunyan": "^1.8.15",
     "form-data": "^4.0.0",
     "mailgun.js": "^10.2.1",
-    "winston": "^3.12.0",
-    "bunyan": "^1.8.15"
+    "pg": "^8.11.3",
+    "sequelize": "^6.37.1",
+    "winston": "^3.12.0"
   },
   "devDependencies": {
     "c8": "^8.0.0",
